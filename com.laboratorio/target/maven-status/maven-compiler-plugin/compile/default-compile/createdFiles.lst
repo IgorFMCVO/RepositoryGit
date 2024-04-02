@@ -1,0 +1,10 @@
+com\laboratorio\App.class
+com\laboratorio\controladora\ControladoraConsulta.class
+com\laboratorio\servico\ServicoConsulta.class
+laboratorioApi\ConsultaApi.class
+laboratorioApi\CadastroApi.class
+com\laboratorio\modelo\Consulta.class
+com\laboratorio\modelo\Cliente.class
+com\laboratorio\modelo\Especialista.class
+com\laboratorio\modelo\Pessoa.class
+com\laboratorio\servico\GestaoCadastros.class
